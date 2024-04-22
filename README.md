@@ -1,5 +1,5 @@
 Overview:
-SportifyClone is a web application inspired by the popular music streaming service, Spotify, tailored for sports enthusiasts. This project aims to recreate the key features and functionalities of Spotify.
+SpotifyClone is a web application inspired by the popular music streaming service, Spotify, tailored for sports enthusiasts. This project aims to recreate the key features and functionalities of Spotify.
 
 Features:
 Responsive Design: Ensure the application is accessible and user-friendly across various devices and screen sizes.
