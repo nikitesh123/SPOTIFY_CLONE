@@ -1,3 +1,5 @@
+#SPOTIFY_CLONE
+
 Overview:
 SpotifyClone is a web application inspired by the popular music streaming service, Spotify, tailored for sports enthusiasts. This project aims to recreate the key features and functionalities of Spotify.
 
